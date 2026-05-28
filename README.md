@@ -1,3 +1,5 @@
+
+
 # FACE RECOGNITION IN CLASS - NHẬN DIỆN KHUÔN MẶT SINH VIÊN TRONG LỚP
 Nguyễn Bảo Hân - 31251027458 - DA0001
 
@@ -95,3 +97,6 @@ MyDrive/
 ```
 
 Mỗi thư mục con là 1 người, tên thư mục = tên class.
+
+## Link video DEMO
+**https://youtu.be/UEP_bAoR5g8**
